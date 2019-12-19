@@ -37,8 +37,8 @@ a {
 
 .img {
   float: right;
-  padding-left: 200px;
-  padding-bottom: 200px;
+  padding-left: 100px;
+  padding-bottom: 225px;
   text-align: right;
 }
 
@@ -51,7 +51,7 @@ a {
   text-align: right;
 }
 
-.quizButton{
+.quizButton, .quizButton2, .quizButton3{
   background-color: white;
   color: black;
   border: 2px solid #4CAF50;
